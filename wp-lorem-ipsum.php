@@ -7,8 +7,6 @@ Author: Jan Voracek
 Version: 1.0
 */
 
-require_once __DIR__ . '/vendor/autoload.php';
-
 // This just echoes the chosen line, we'll position it later
 function wp_lorem_ipsum() {
     $generator = new Badcow\LoremIpsum\Generator();
