@@ -1,0 +1,16 @@
+{
+    "name": "wp-composerize/wp-lorem-ipsum",
+    "description": "WordPress plugin that displays lorem ipsum like Hello Dolly",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "^1.0",
+        "badcow/lorem-ipsum": "^1.1"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Jan Voráček",
+            "email": "jan@voracek.net"
+        }
+    ]
+}
