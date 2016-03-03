@@ -1,5 +1,5 @@
 {
-    "name": "wp-composerize/wp-lorem-ipsum",
+    "name": "wp-cpm/wp-lorem-ipsum",
     "description": "WordPress plugin that displays lorem ipsum like Hello Dolly",
     "type": "wordpress-plugin",
     "require": {
